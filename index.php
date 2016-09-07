@@ -1,4 +1,9 @@
 <?php
+/**
+ *  titolo: nuraghebot-facebookmessenger
+ *  autore: Matteo Enna (http://matteoenna.it)
+ *  licenza: GPL3
+ **/
 
     header('Content-Type: text/html; charset=utf-8');
 
